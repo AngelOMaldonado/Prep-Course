@@ -1,0 +1,19 @@
+*******Conceptos*******
+
+Variables: Lugares en donde puedo guardar información y utilizarla 
+cuando la necesite. 	
+
+Strings: Siempre dentro de unas comillas ‘ ‘ puedes escribir 
+cualquier sucesión de letras, números y símbolos.
+
+Funciones (argumentos, `return`): Código que podemos guardar para 
+usarlo después, funciones argumentos nos pedirán alguna o algunas 
+variables para poder usarlo y funciones ‘return’ es código que nos 
+devolverá un valor.
+
+Declaraciones `if`: Te permite hacer preguntas lógicas que tengan 
+como respuesta ‘verdadero’ o ‘falso’, según cualquier respuesta que 
+te dé, podrás agregar el código que necesites.
+
+Valores booleanos (`true`, `false`): Estos solo pueden tener 2 estados 
+‘true’ y ‘false’ que son ‘verdadero’ y ‘falso’.
