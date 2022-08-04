@@ -1,0 +1,12 @@
+********Conceptos*********
+
+‘for’: Es un ciclo o repetición que cada vez que se repite 
+aumentamos una variable para saber cuántas veces hemos repetido.
+
+‘&&’: Nos ayuda a hacer 2 preguntas y ambas tienen que ser 
+verdad para que todo sea verdad. 
+
+‘||’: Nos ayuda comparar 2 preguntas, si no se cumple una, se 
+cumple la otra.
+
+‘!’: Nos da el resultado contrario.
