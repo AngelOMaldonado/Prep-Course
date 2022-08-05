@@ -1,0 +1,7 @@
+***********Conceptos***********
+
+Arrays: Es un almacén en donde tu puedes guardar diferentes 
+tipos de datos, variables, constantes, funciones y hasta 
+otros arrays, cada espacio de este almacén tendrá un número 
+de casilla (SIEMPRE EMPEZANDO POR LA PRIMER CASILLA COMO EL 
+ESPACIO NÚMERO 0).
