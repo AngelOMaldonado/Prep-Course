@@ -1,0 +1,18 @@
+**********Conceptos**********
+
+Objetos: Es una colección de propiedades a las que puedes 
+llamar para trabajarlas usando su nombre/código/llave.
+
+Propiedades: Dato designado por un nombre y un contenido que 
+viene integrado en los objetos, el contenido puede ser cualquier 
+cosa, número, String, función, matriz, etc.
+
+Métodos: Son propiedades de los objetos, que son funciones.
+
+Bucle ‘for in’: Nos permite iniciar un ciclo para un objeto, 
+este recorrerá todas las propiedades del objeto hasta acabarlas.
+
+Notación de puntos vs notación de corchetes: La notación de 
+corchetes nos permite usar variables con el mismo nombre que 
+la propiedad que necesitemos, mientras que la notación de punto 
+es más literal y no nos deja usar variables.
