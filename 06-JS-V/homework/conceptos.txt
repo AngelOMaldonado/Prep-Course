@@ -1,0 +1,8 @@
+************Conceptos************
+
+‘Prototype’: Son propiedades generales que puedes repetir 
+entre varios objetos, si un objeto no tiene la propiedad que 
+necesitas, la ira a buscar a su prototipo.
+
+_Constructores_ (De clases): Estos tendrán todos lo atributos 
+necesarios de cuando creemos su objeto correspondiente.
