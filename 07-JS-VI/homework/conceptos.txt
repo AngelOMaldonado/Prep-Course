@@ -1,0 +1,4 @@
+************Conceptos************
+
+Funciones Callback: Es cuando a una función que nos pide 
+argumentos, le pasamos como argumento a otra función. 
