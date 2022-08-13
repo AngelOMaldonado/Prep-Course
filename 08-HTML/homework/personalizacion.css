@@ -1,0 +1,58 @@
+body{
+    background-image: url('https://p4.wallpaperbetter.com/wallpaper/585/526/393/minimalism-empty-gradient-simple-background-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 25;
+}
+body span{
+    text-decoration: underline;
+    color: rgb(15, 15, 47);
+    font-weight: 500
+}
+#tituloId{
+    display: flex;
+    background-color: rgb(94, 133, 141);
+    padding: 20px;
+    margin: 10px;
+}
+#tituloId h1{
+    text-align: center;
+    text-decoration:underline;
+    width: 1200px;
+    align-self: center;
+    font-size: 40px;
+}
+#tituloId img{
+    height: 199px; 
+    width: 150px;
+}
+#capa1{
+    display: flex;
+    margin: 10px;
+}
+#capa1 .persoInf{
+    width: 775px;
+    margin: 50px;
+}
+#capa1 .profecInf{
+    margin: 50px;
+}
+#capa2{
+    display: flex;  
+    margin: 10px;
+}
+#capa2 .laboInf{
+    width: 775px;
+    margin: 50px;
+}
+#capa2 .skillsInf{
+    margin: 50px;
+}
+#hobis{
+    display: flex;  
+    margin: 50px;
+}
+#expli{
+    display: flex;  
+    margin: 50px;
+}
